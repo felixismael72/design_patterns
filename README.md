@@ -26,7 +26,7 @@ To explore a specific design pattern, navigate to its corresponding package with
 
 Creational:
 - [x] Factory method
-- [ ] Abstract factory
+- [x] Abstract factory
 - [ ] Builder
 - [ ] Singleton
 

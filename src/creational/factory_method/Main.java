@@ -5,8 +5,17 @@ import java.util.Map;
 
 public class Main {
   public static void main(String[] args) {
-    Map<String, String> config = getConfig();
+    try {
+      LoggerFactory factory = getLoggerFactory();
+      Logger logger = factory.getLogger();
+      logger.log("This is a log message.");
+    } catch (Exception e) {
+      System.err.println("Error getting logger factory: " + e.getMessage());
+    }
+  }
 
+  private static LoggerFactory getLoggerFactory() {
+    Map<String, String> config = getConfig();
     String loggerType = config.get("logger");
 
     LoggerFactory factory;
@@ -17,9 +26,7 @@ public class Main {
     } else {
       throw new IllegalArgumentException("Invalid logger type specified in configuration");
     }
-
-    Logger logger = factory.getLogger();
-    logger.log("This is a log message.");
+    return factory;
   }
 
   private static Map<String, String> getConfig() {
