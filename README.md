@@ -24,4 +24,31 @@ To explore a specific design pattern, navigate to its corresponding package with
 
 ## Work report 
 
-There is nothing on this repository yet. Come back later!
+Creational:
+- [x] Factory method
+- [ ] Abstract factory
+- [ ] Builder
+- [ ] Singleton
+
+Structural:
+- [ ] Adapter
+- [ ] Bridge
+- [ ] Composite
+- [ ] Decorator
+- [ ] Facade
+- [ ] Flyweight
+- [ ] Proxy
+
+Behavioral:
+- [ ] Chain of responsibility
+- [ ] Command
+- [ ] Interpreter
+- [ ] Iterator
+- [ ] Mediator
+- [ ] Memento
+- [ ] Observer
+- [ ] State
+- [ ] Strategy
+- [ ] Template method
+- [ ] Visitor
+
