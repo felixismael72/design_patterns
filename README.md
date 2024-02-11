@@ -34,7 +34,7 @@ Creational:
 - [x] Singleton
 
 Structural:
-- [ ] Adapter
+- [x] Adapter
 - [ ] Bridge
 - [ ] Composite
 - [ ] Decorator
