@@ -30,7 +30,7 @@ Creational:
 - [x] Factory method
 - [x] Abstract factory
 - [x] Builder
-- [ ] Prototype
+- [x] Prototype
 - [ ] Singleton
 
 Structural:
