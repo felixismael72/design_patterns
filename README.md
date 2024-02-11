@@ -4,6 +4,8 @@ Welcome to this Design Patterns Repository! This repository is dedicated to prac
 
 This is a work in progress, so feel free to reach out and correct me if you feel that something is misrepresented in here. :) 
 
+This content also takes into account the knowledge exposed by the [Refactoring Guru website](https://refactoring.guru/design-patterns).
+
 ## Purpose
 
 The primary goal of this repository is to provide a practical exploration of various design patterns, fostering a deeper understanding of their principles and applications. By encapsulating client code and design pattern implementations within organized packages, this repository aims to offer clear and accessible examples for developers to learn from.
@@ -28,6 +30,7 @@ Creational:
 - [x] Factory method
 - [x] Abstract factory
 - [ ] Builder
+- [ ] Prototype
 - [ ] Singleton
 
 Structural:
