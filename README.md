@@ -31,7 +31,7 @@ Creational:
 - [x] Abstract factory
 - [x] Builder
 - [x] Prototype
-- [ ] Singleton
+- [x] Singleton
 
 Structural:
 - [ ] Adapter
