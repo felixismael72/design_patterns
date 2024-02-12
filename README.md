@@ -43,7 +43,7 @@ Structural:
 - [x] Proxy
 
 Behavioral:
-- [ ] Chain of responsibility
+- [x] Chain of responsibility
 - [ ] Command
 - [ ] Interpreter
 - [ ] Iterator
