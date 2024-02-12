@@ -40,7 +40,7 @@ Structural:
 - [x] Decorator
 - [x] Facade
 - [x] Flyweight
-- [ ] Proxy
+- [x] Proxy
 
 Behavioral:
 - [ ] Chain of responsibility
