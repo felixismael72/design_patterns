@@ -44,7 +44,7 @@ Structural:
 
 Behavioral:
 - [x] Chain of responsibility
-- [ ] Command
+- [x] Command
 - [ ] Interpreter
 - [ ] Iterator
 - [ ] Mediator
