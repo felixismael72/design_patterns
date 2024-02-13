@@ -45,7 +45,7 @@ Structural:
 Behavioral:
 - [x] Chain of responsibility
 - [x] Command
-- [ ] Interpreter
+- [x] Interpreter
 - [ ] Iterator
 - [ ] Mediator
 - [ ] Memento
