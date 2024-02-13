@@ -46,7 +46,7 @@ Behavioral:
 - [x] Chain of responsibility
 - [x] Command
 - [x] Interpreter
-- [ ] Iterator
+- [x] Iterator
 - [ ] Mediator
 - [ ] Memento
 - [ ] Observer
