@@ -49,7 +49,7 @@ Behavioral:
 - [x] Iterator
 - [x] Mediator
 - [x] Memento
-- [ ] Observer
+- [x] Observer
 - [ ] State
 - [ ] Strategy
 - [ ] Template method
