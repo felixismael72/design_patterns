@@ -50,7 +50,7 @@ Behavioral:
 - [x] Mediator
 - [x] Memento
 - [x] Observer
-- [ ] State
+- [x] State
 - [ ] Strategy
 - [ ] Template method
 - [ ] Visitor
