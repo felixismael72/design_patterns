@@ -53,5 +53,5 @@ Behavioral:
 - [x] State
 - [x] Strategy
 - [x] Template method
-- [ ] Visitor
+- [x] Visitor
 
